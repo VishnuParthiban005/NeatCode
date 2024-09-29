@@ -169,7 +169,8 @@ body {
 iframe {
     margin-top:1rem;
     width: 980px;
-  margin: 0 auto;          /* Full viewport height for vertical centering */
+    height: 600px;
+  margin: auto;          /* Full viewport height for vertical centering */
 }
 @media (max-width: 768px) {
     .container {
