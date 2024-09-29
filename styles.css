@@ -166,7 +166,7 @@ body {
     font-weight: bold;
 }
 
-.iframe {
+iframe {
     margin-top:1rem;
     width: 980px;
   margin: 0 auto;          /* Full viewport height for vertical centering */
