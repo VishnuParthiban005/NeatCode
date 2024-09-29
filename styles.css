@@ -167,10 +167,9 @@ body {
 }
 
 .iframe {
-    display: flex;
-    justify-content: center; /* Horizontal centering */
-    align-items: center;     /* Vertical centering */
-    height: 100vh;           /* Full viewport height for vertical centering */
+    margin-top:1rem;
+    width: 980px;
+  margin: 0 auto;          /* Full viewport height for vertical centering */
 }
 @media (max-width: 768px) {
     .container {
