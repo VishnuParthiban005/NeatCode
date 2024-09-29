@@ -132,16 +132,16 @@ body {
     color: #333;
 }
 
-.overview, .benefits {
+.overview, .benefits, .how-it-works {
     margin-top: 2rem;
 }
 
-.overview h2, .benefits h2 {
+.overview h2, .benefits h2, .how-it-works h2 {
     font-size: 2rem;
     color: #333;
 }
 
-.overview-item, .benefits-item {
+.overview-item, .benefits-item, .how-it-works-item {
     background-color: white;
     padding: 1rem;
     margin-top: 1rem;
@@ -152,7 +152,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.overview-item h3, .benefits-item h3 {
+.overview-item h3, .benefits-item h3, .how-it-works-item h3 {
     font-size: 1.5rem;
     color: #3366FF;
 }
