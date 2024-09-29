@@ -166,11 +166,12 @@ body {
     font-weight: bold;
 }
 
-iframe {
-    margin-top: 1rem;
-    self-align:center;
+.iframe {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center;     /* Vertical centering */
+    height: 100vh;           /* Full viewport height for vertical centering */
 }
-
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
