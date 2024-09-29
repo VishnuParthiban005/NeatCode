@@ -167,10 +167,11 @@ body {
 }
 
 iframe {
-    margin-top:1rem;
-    width: 980px;
-    height: 600px;
-  margin: auto;          /* Full viewport height for vertical centering */
+/*     margin-top:1rem; */
+    width: 750px;
+    height: 470px;
+    display: block;
+    margin: 0 auto;      /* Full viewport height for vertical centering */
 }
 @media (max-width: 768px) {
     .container {
