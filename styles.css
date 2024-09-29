@@ -168,7 +168,7 @@ body {
 
 iframe {
     margin-top: 1rem;
-    align-items:center;
+    self-align:center;
 }
 
 @media (max-width: 768px) {
